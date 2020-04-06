@@ -24,23 +24,23 @@
 
 **Repositorio de la presente práctica:** [https://github.com/bryansb/Practica01-MiPrimerSitioWeb](https://github.com/bryansb/Practica01-MiPrimerSitioWeb)
 
-1. **Realizar un commit y push por cada requerimiento.**
+2. **Realizar un commit y push por cada requerimiento.**
 
 Se realizaron los commits, y push de acuerdo se fue avanzando en el desarrollo de la página web.
 
-1. **Validar todas las páginas HTML creadas usando W3C Validator.**
+3. **Validar todas las páginas HTML creadas usando W3C Validator.**
 
 **Nota:** Debido a que no estamos trabajando todavía con CSS, la página da algunos avisos cuando se trabajan con tablas. Las comprobaciones se encuentran en el informe con capturas de pantalla.
 
-1. **Crear el archivo README del repositorio de GitHub.**
+4. **Crear el archivo README del repositorio de GitHub.**
 
 Se creó el archivo en cuestión, se puede encontrar en el repositorio.
 
-1. **Generar el informe de los resultados.**
+5. **Generar el informe de los resultados.**
 
 **Nota:** Las capturas de pantalla acerca de los resultados se encuentran en el informe de práctica.
 
-1. **Explicación de la estructura de cada página HTML.**
+6. **Explicación de la estructura de cada página HTML.**
 
 **Elementos en común para todas las páginas:** En todas las páginas se encuentran elementos comunes o similares, en este caso son los siguientes
 
